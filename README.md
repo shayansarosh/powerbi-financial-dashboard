@@ -1,32 +1,3 @@
 # powerbi-financial-dashboard
 Interactive Power BI dashboard analyzing financial statements, liquidity ratios, and profitability trends using real-world data.
-# Power BI Financial Dashboard
-
-Interactive Power BI dashboard analyzing financial statements, liquidity ratios, and profitability trends using real-world data.
-
----
-
-## 📊 Executive Summary
-![Executive Summary](Executive Summary KPIs.png)
-
----
-
-## 📑 Balance Sheet Dashboard
-![Balance Sheet](Balance Sheet Dashboard.png)
-
----
-
-## 📈 Profit & Loss Dashboard
-![Profit and Loss](Profit and Loss Statement Dashboard.png)
-
----
-
-## 💰 Sales Dashboard
-![Sales](Sales Dashboard.png)
-
----
-
-## 🛠 Tools Used
-- Power BI
-- Financial Analysis
-- Data Visualization
+<img width="1180" height="669" alt="Executive Summary KPIs" src="https://github.com/user-attachments/assets/7c8995e6-ef52-423e-a0e3-e60cb862d117" />
